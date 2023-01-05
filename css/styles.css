@@ -2,3 +2,12 @@
     margin: 0;
     padding: 0;
 }
+
+.panda-card{
+    border: 0;
+}
+
+.panda-card-footer{
+    background-color: #fff;
+    border: 0;
+}
